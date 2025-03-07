@@ -1,2 +1,2 @@
-from P import main
-Main() 
+from OLD import main
+main() 
